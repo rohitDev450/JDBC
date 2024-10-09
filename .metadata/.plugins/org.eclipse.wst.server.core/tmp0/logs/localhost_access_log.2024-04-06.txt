@@ -1,0 +1,5 @@
+127.0.0.1 - - [06/Apr/2024:00:01:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Apr/2024:00:02:06 +0530] "GET /SpringRest/user?userName=Rohit&password=Rohit@143 HTTP/1.1" 200 146
+127.0.0.1 - - [06/Apr/2024:00:02:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Apr/2024:00:03:04 +0530] "GET /SpringRest/user?userName=Rohit&password=Rohit@143 HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [06/Apr/2024:00:03:17 +0530] "GET /SpringRest/user?userName=Rohit&password=Rohit@14 HTTP/1.1" 404 96
